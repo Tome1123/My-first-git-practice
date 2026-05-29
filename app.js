@@ -1,0 +1,1 @@
+console.log('Podme na jahody');
