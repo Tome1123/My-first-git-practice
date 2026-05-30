@@ -1,0 +1,1 @@
+Ja robim tiez git
